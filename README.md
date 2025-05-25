@@ -56,10 +56,15 @@ Net Salary = Gross Salary - Detection
 Each role has different calculation percentages:
 
 Designation	DA	HRA	PF	IT
+
 Software Architect	4%	3%	2%	1%
+
 Developer	4.5%	3.5%	2.5%	1.5%
+
 Designer	5%	4%	3%	2%
+
 Quality Assurance	5.5%	4.5%	3.5%	2.5%
+
 Business Analyst	6%	5%	4%	3%
 
 💻 Technologies Used
